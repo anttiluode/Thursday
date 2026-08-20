@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 venv/
 *.thv
+.splat_ecology_cache/
